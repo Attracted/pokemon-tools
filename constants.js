@@ -1,4 +1,3 @@
-
 import chalk from 'chalk';
 
 //#region Pokemon Gen 7 types
